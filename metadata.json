@@ -1,0 +1,5 @@
+{
+  "name": "DevArchitect Generator",
+  "description": "A developer project blueprint generator that creates detailed architectural challenges similar to the user provided example using Gemini AI.",
+  "requestFramePermissions": []
+}
